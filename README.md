@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+To download dataset
+```
+wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training _set1.csv 
+```
+This is changes made in neuro lab
